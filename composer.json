@@ -17,7 +17,7 @@
     ],
     "require": {
       "php": "^7.0",
-      "guzzlehttp/guzzle": "6.3.0",
+      "guzzlehttp/guzzle": "~6.3.0",
       "jenssegers/model": "^1.2"
     },
     "autoload": {
