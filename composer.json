@@ -1,6 +1,6 @@
 {
-    "name": "petrelli/eloquent-consumer",
-    "description": "API consumer and query builder that uses Eloquent like syntax",
+    "name": "sauron/eloquent-consumer",
+    "description": "API consumer and query builder that uses Eloquent like syntax. Forked from petrelli/eloquent-consumer",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -13,6 +13,10 @@
         {
             "name": "Fernando Petrelli",
             "email": "contact@fernandopetrelli.com"
+        },
+        {
+            "name": "Pablo Barrios",
+            "email": "ingpablobarrios@gmail.com"
         }
     ],
     "require": {
